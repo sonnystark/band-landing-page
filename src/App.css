@@ -8,6 +8,7 @@ body {
 
 h3 {
   color: dimgray;
+  padding: 1rem;
 }
 
 a {
@@ -32,7 +33,7 @@ li {
 
 .header_image {
   width: 18rem;
-  padding: 1.2rem;
+  padding: 1.5rem;
 }
 
 .member_img {
